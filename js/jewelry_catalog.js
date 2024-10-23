@@ -111,7 +111,7 @@ async function fetchCatalogData () {
     let href         = " https://gcs-pages.github.io/apidataserver";
     let dataDir      = "/json";
     let familyDir    = "/jewelry";
-    let fileName     = "/catalog";
+    let fileName     = "/jewelry-price-list";
 
     let urlParms = new URLSearchParams(window.location.search);
 
